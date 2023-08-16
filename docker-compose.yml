@@ -1,0 +1,8 @@
+version: "3.9"
+services:
+  json_fixer:
+    build:
+      context: .
+      target: base
+    volumes:
+      - ./:/app
