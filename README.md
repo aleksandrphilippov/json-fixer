@@ -126,11 +126,7 @@ print(fixed_json)
 This will output:
 
 ```json
-{
-  "name": "John",
-  "age": 30,
-  "city": "New York"
-}
+{"name": "John", "age": 30, "city": "New York"}
 ```
 
 ## Testing
